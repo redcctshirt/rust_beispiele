@@ -2,7 +2,7 @@
 
 https://www.rust-lang.org/
 
-* [SolidOak - IDE für Rrust](https://github.com/oakes/SolidOak)
+* [SolidOak - IDE für Rust](https://github.com/oakes/SolidOak)
 * [Editor Configs](https://github.com/rust-lang/rust/blob/master/src/etc/CONFIGS.md)
 
 ### Lernen
@@ -14,13 +14,13 @@ https://www.rust-lang.org/
 
 ### Kommandos
 
-'''
+```
 // Version anzeigen
 rustc --version 
 
 // Kompilieren: main.rs -> ./main
 rustc main.rs
-'''
+```
 
 ### Beispiele
 
