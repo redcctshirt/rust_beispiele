@@ -20,7 +20,17 @@ rustc --version
 
 // Kompilieren: main.rs -> ./main
 rustc main.rs
+
+// Cargo - ist das zentrale Verwaltungstool für Rust-Projekte
+// neues bin-Projekt erstellen -> Cargo.toml, src/main.rs, .git, .gitignore ([neues_projekt](beispiele/neues_projekt))
+cargo new neues_projekt --bin
+
+// neues lib-Projekt erstellen -> Cargo.toml, src/lib.rs, .git, .gitignore ([neues_lib_projekt](beispiele/neues_lib_projekt))
+cargo new neues_lib_projekt
+
 ```
+
+
 
 ### Beispiele
 
