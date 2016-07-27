@@ -22,20 +22,34 @@ rustc --version
 rustc main.rs
 
 // Cargo - ist das zentrale Verwaltungstool für Rust-Projekte
-// neues bin-Projekt erstellen -> Cargo.toml, src/main.rs, .git, .gitignore ([neues_projekt](beispiele/neues_projekt))
+//
+// neues bin-Projekt erstellen -> Cargo.toml, src/main.rs, .git, .gitignore
+// Cargo.toml - ist die Konfigurationsdatei für Projekte
 cargo new neues_projekt --bin
 
-// neues lib-Projekt erstellen -> Cargo.toml, src/lib.rs, .git, .gitignore ([neues_lib_projekt](beispiele/neues_lib_projekt))
+// neues lib-Projekt erstellen -> Cargo.toml, src/lib.rs, .git, .gitignore
 cargo new neues_lib_projekt
 
-```
+// Projekt kompilieren
+cargo build
 
+// Projekt kompilieren und starten
+cargo run
+
+// alle Abhängigkeiten aktualisieren
+cargo update
+
+// Tests durchführen
+cargo test
+
+```
 
 
 ### Beispiele
 
 * [Hallo Welt](beispiele/hallowelt.rs)
-
+* [cargo new neues_projekt --bin](beispiele/neues_projekt) (ohne .git und .gitignore)
+* [cargo new neues_lib_projekt](beispiele/neues_lib_projekt) (ohne .git und .gitignore)
 
 
 README.md Lizenz: https://creativecommons.org/publicdomain/zero/1.0/deed.de

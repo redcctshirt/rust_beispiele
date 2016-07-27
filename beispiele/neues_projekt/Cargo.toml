@@ -1,6 +1,6 @@
 [package]
 name = "neues_projekt"
 version = "0.1.0"
-authors = ["openscreencast <info@openscreencast.de>"]
+authors = ["datenpaul <info@datenpaul.de>"]
 
 [dependencies]
