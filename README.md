@@ -50,6 +50,7 @@ cargo test
 * [Hallo Welt](beispiele/hallowelt.rs)
 * [cargo new neues_projekt --bin](beispiele/neues_projekt) (ohne .git und .gitignore)
 * [cargo new neues_lib_projekt](beispiele/neues_lib_projekt) (ohne .git und .gitignore)
+* [Tests durchführen](beispiele/plus_x) (ohne .git und .gitignore)
 
 
 README.md Lizenz: https://creativecommons.org/publicdomain/zero/1.0/deed.de
