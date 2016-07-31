@@ -1,0 +1,10 @@
+[package]
+name = "feat"
+version = "0.1.0"
+authors = ["datenpaul <info@datenpaul.de>"]
+
+[dependencies]
+
+[features]
+de = []
+en = []
