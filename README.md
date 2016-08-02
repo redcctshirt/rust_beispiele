@@ -21,6 +21,9 @@ rustc --version
 // Kompilieren: main.rs -> ./main
 rustc main.rs
 
+// Dokumentation generieren
+rustdoc
+
 // Cargo - ist das zentrale Verwaltungstool für Rust-Projekte
 //
 // neues bin-Projekt erstellen -> Cargo.toml, src/main.rs, .git, .gitignore
@@ -42,6 +45,9 @@ cargo update
 // Tests durchführen
 cargo test
 
+// Dokumentation generieren
+cargo doc
+
 ```
 
 
@@ -52,6 +58,7 @@ cargo test
 * [cargo new neues_lib_projekt](beispiele/neues_lib_projekt)
 * [Tests durchführen](beispiele/plus_x)
 * [Kompilieren mit Bedingung](beispiele/feat)
+* [Dokumentation im Quellcode](beispiele/doku)
 
 
 README.md Lizenz: https://creativecommons.org/publicdomain/zero/1.0/deed.de

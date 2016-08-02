@@ -1,0 +1,6 @@
+[package]
+name = "doku"
+version = "0.1.0"
+authors = ["datenpaul <info@datenpaul.de>"]
+
+[dependencies]
