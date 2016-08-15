@@ -59,7 +59,9 @@ cargo doc
 * [Tests durchführen](beispiele/plus_x)
 * [Kompilieren mit Bedingung](beispiele/feat)
 * [Dokumentation im Quellcode](beispiele/doku)
+* [Variablenbindung - let](beispiele/variablenbindung.rs)
 * [Iteratoren](beispiele/iteratoren.rs)
 
+### Lizenz
 
-README.md Lizenz: https://creativecommons.org/publicdomain/zero/1.0/deed.de
+Lizenz: https://creativecommons.org/publicdomain/zero/1.0/deed.de
