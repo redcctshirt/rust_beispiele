@@ -60,7 +60,9 @@ cargo doc
 * [Kompilieren mit Bedingung](beispiele/feat)
 * [Dokumentation im Quellcode](beispiele/doku)
 * [Variablenbindung - let](beispiele/variablenbindung.rs)
+* [Funktionen - fn](beispiele/funktionen.rs)
 * [Iteratoren](beispiele/iteratoren.rs)
+* Nebenläufigkeit
 
 ### Lizenz
 
