@@ -62,6 +62,7 @@ cargo doc
 * [Variablenbindung - let](beispiele/variablenbindung.rs)
 * [Funktionen - fn](beispiele/funktionen.rs)
 * [einfache Datentypen](beispiele/datentypen.rs)
+* [Listen - Array, Slice, Tupel](beispiele/listen.rs)
 * [Iteratoren](beispiele/iteratoren.rs)
 * Nebenläufigkeit
 
