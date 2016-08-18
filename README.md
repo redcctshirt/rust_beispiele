@@ -61,6 +61,7 @@ cargo doc
 * [Dokumentation im Quellcode](beispiele/doku)
 * [Variablenbindung - let](beispiele/variablenbindung.rs)
 * [Funktionen - fn](beispiele/funktionen.rs)
+* [einfache Datentypen](beispiele/datentypen.rs)
 * [Iteratoren](beispiele/iteratoren.rs)
 * Nebenläufigkeit
 
