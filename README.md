@@ -65,6 +65,7 @@ cargo doc
 * [Funktionen - fn](beispiele/funktionen.rs)
 * [einfache Datentypen](beispiele/datentypen.rs)
 * [Listen - Array, Slice, Tupel](beispiele/listen.rs)
+* [if - else if - else](beispiele/wenn.rs)
 * [Iteratoren](beispiele/iteratoren.rs)
 * Nebenläufigkeit
 
