@@ -16,4 +16,8 @@ fn main() {
     let d: f32 = 23.42;
     println!("Numerisch: {}, {}", c, d);
 
+    // Zeichenkette
+    let e: &str = "Hallo Welt";
+    println!("String: {}",e);
+
 }
