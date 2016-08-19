@@ -1,6 +1,7 @@
 ## Rust (Programmiersprache) - Beispiele
 
-https://www.rust-lang.org/
+https://www.rust-lang.org/ - Rust    
+https://crates.io/ - Webseite für crates
 
 * [SolidOak - IDE für Rust](https://github.com/oakes/SolidOak)
 * [Editor Configs](https://github.com/rust-lang/rust/blob/master/src/etc/CONFIGS.md)
