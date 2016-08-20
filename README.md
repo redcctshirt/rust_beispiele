@@ -66,6 +66,7 @@ cargo doc
 * [einfache Datentypen](beispiele/datentypen.rs)
 * [Listen - Array, Slice, Tupel](beispiele/listen.rs)
 * [if - else if - else](beispiele/wenn.rs)
+* [Schleifen - loop, for, while](beispiele/schleifen.rs)
 * [Iteratoren](beispiele/iteratoren.rs)
 * Nebenläufigkeit
 
