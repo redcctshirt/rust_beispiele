@@ -67,8 +67,11 @@ cargo doc
 * [Listen - Array, Slice, Tupel](beispiele/listen.rs)
 * [if - else if - else](beispiele/wenn.rs)
 * [Schleifen - loop, for, while](beispiele/schleifen.rs)
+* [Vektoren - vec!](beispiele/vektoren.rs)
 * [Iteratoren](beispiele/iteratoren.rs)
 * Nebenläufigkeit
+* Besitz
+* Ausleihen
 
 ### Lizenz
 
