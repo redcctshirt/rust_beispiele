@@ -37,6 +37,7 @@ cargo new neues_lib_projekt
 
 // Projekt kompilieren
 cargo build
+cargo check
 
 // Projekt kompilieren und starten
 cargo run
@@ -64,6 +65,7 @@ cargo doc
 * [Variablenbindung - let](beispiele/variablenbindung.rs)
 * [Funktionen - fn](beispiele/funktionen.rs)
 * [einfache Datentypen](beispiele/datentypen.rs)
+* [Zeichenketten](beispiele/strings.rs)
 * [Listen - Array, Slice, Tupel](beispiele/listen.rs)
 * [if - else if - else](beispiele/wenn.rs)
 * [Schleifen - loop, for, while](beispiele/schleifen.rs)
